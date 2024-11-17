@@ -1,16 +1,32 @@
-## Hi there 👋
+# Secretly a cat on a keyboard 🐱
 
-<!--
-**RyanBoothbyYoung/RyanBoothbyYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ryan Boothby-Young
+**AI/ML Researcher & Software Engineer** | He/Him | B.Sc. (Hons.) Computer Science, AI Specialty (ongoing)
 
-Here are some ideas to get you started:
+I’m currently gaining hands-on **experience as a researcher** at Vancouver Island University while completing my undergraduate degree in Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🍰 Short and sweet:
+Delving into cutting-edge research in Neuroevolution, Deep Learning, NeuroSymbolic training, and Neural Topology to create impactful solutions. 
+
+### 🌟 What I love:
+- 🧠  **NeuroSymbolic AI** to bridge the gap between symbolic reasoning and deep learning.
+- 🧬 **Evolutionary Computing**: Designing hybrid systems combining evolutionary approaches with neural architectures
+- 🔬 **Evolutionary programming**, **Genetic Algorithms**, and other stochastic approaches to algorithmic design patterns and Neural Topology
+
+### 💡 How I do it:
+- 👨🏼‍🔬 **Currently researching** the use of modern AI techniques at the intersection of computer science and the humanities with a focus on digital knowledge preservation and bit decay.
+- 📊 **AI Investment System**: Developing an ensemble approach with _a novel voting mechanism_, integrating financial metrics, sentiment analysis, and historical model performance
+- 🎮 **AI-Driven Game Development**: Creating an indie game that showcases _genetic algorithms and symbolic AI_ in interactive environments
+
+📚 Passions:
+I’m excited about advancing the fields of AI and machine learning through creative applications and research-driven solutions, while exploring the potential of AI in optimization problems, security, games and beyond.
+
+🤔 I'm currenty seeking anyone who finds the above deeply fascinating. 
+The field of AI and Evolutionary Programming is a vast and complex playground that I will continue to explore and experiment in. 
+
+Feel free to reach out if you're passionate about pushing the boundaries of AI/ML technology!
+
+
+ ---
+ 
+
