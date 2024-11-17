@@ -3,7 +3,7 @@
 ## Ryan Boothby-Young
 **AI/ML Researcher & Software Engineer** | He/Him | B.Sc. (Hons.) Computer Science, AI Specialty (ongoing)
 
-I’m currently gaining hands-on **experience as a researcher** at Vancouver Island University while completing my undergraduate degree in Canada
+I’m currently gaining hands-on **experience as a researcher** at Vancouver Island University while completing my undergraduate degree.
 
 ## 🍰 Short and sweet:
 Delving into cutting-edge research in Neuroevolution, Deep Learning, NeuroSymbolic training, and Neural Topology to create impactful solutions. 
