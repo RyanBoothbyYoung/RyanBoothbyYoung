@@ -18,13 +18,11 @@ Delving into cutting-edge research in Neuroevolution, Deep Learning, NeuroSymbol
 - 📊 **AI Investment System**: Developing an ensemble approach with _a novel voting mechanism_, integrating financial metrics, sentiment analysis, and historical model performance
 - 🎮 **AI-Driven Game Development**: Creating an indie game that showcases _genetic algorithms and symbolic AI_ in interactive environments
 
-📚 Passions:
-I’m excited about advancing the fields of AI and machine learning through creative applications and research-driven solutions, while exploring the potential of AI in optimization problems, security, games and beyond.
 
 🤔 I'm currenty seeking anyone who finds the above deeply fascinating. 
 The field of AI and Evolutionary Programming is a vast and complex playground that I will continue to explore and experiment in. 
 
-Feel free to reach out if you're passionate about pushing the boundaries of AI/ML technology!
+Feel free to reach out!
 
 
  ---
