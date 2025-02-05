@@ -8,7 +8,7 @@ I’m currently gaining hands-on **experience as a researcher** at Vancouver Isl
 ### 💡 Ongoing work:
 - 👨🏼‍🔬 **Currently researching** the use of modern AI techniques at the intersection of computer science and the humanities with a focus on digital knowledge preservation and bit decay.
 - 📊 **AI Investment System**: Developing an ensemble approach with _a novel voting mechanism_, integrating financial metrics, sentiment analysis, and historical model performance
-- 🎮 **AI-Driven Game Development**: Creating an indie game that showcases _genetic algorithms and symbolic AI_ in interactive environments
+
 
 
  ---
