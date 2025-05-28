@@ -1,4 +1,4 @@
-# Secretly a cat on a keyboard 🐱
+# Secretly a dog on a keyboard
 
 ## Ryan Boothby-Young
 **AI/ML Researcher & Software Engineer** | He/Him | B.Sc. (Hons.) Computer Science, AI Specialty (ongoing)
